@@ -1,0 +1,811 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clear",
+				"clearFormElements〔function〕"
+			],
+			[
+				"price_adjustments",
+				"price_adjustments_id"
+			],
+			[
+				"text",
+				"type=\"text"
+			],
+			[
+				"price_adjustments_",
+				"price_adjustments_id"
+			],
+			[
+				"append",
+				"appendPriceadjustment〔function〕"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"write",
+				"writeItemShippingCost〔function〕"
+			],
+			[
+				"type",
+				"typeof〔keyword〕"
+			],
+			[
+				"base",
+				"basePrice"
+			],
+			[
+				"cur_adjustment",
+				"$cur_adjustment_val〔variable〕"
+			],
+			[
+				"shipping_address",
+				"$shipping_address〔variable〕"
+			],
+			[
+				"country",
+				"countrySpecificFieldsData"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"priceAdjustments",
+				"priceAdjustmentsValueDisplay〔variable〕"
+			],
+			[
+				"price_adj",
+				"price_adjustments_value"
+			],
+			[
+				"order_tax_",
+				"order_tax_rate"
+			],
+			[
+				"order_tax",
+				"order_tax"
+			],
+			[
+				"discount",
+				"discountReasonName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 466,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 169.0,
+		"last_filter": "branch new",
+		"selected_items":
+		[
+			[
+				"branch new",
+				"Git (SideBarGit): Branch: new from current and switch to…"
+			],
+			[
+				"add comm",
+				"Git (SideBarGit): Add & Commit & Push…"
+			],
+			[
+				"branch new from",
+				"Git (SideBarGit): Branch: new from current and switch to…"
+			],
+			[
+				"git pull",
+				"Git (SideBarGit): Pull"
+			],
+			[
+				"switch",
+				"Git (SideBarGit): Branch: switch to…"
+			],
+			[
+				"add commit",
+				"Git (SideBarGit): Add & Commit & Push…"
+			],
+			[
+				"subl custom",
+				"Sublimerge: Custom Comparison..."
+			],
+			[
+				"subl custo",
+				"Sublimerge: Custom Comparison..."
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"branch new fr",
+				"Git (SideBarGit): Branch: new from current and switch to…"
+			],
+			[
+				"add comi",
+				"Git (SideBarGit): Add & Commit & Push…"
+			],
+			[
+				"subl cust",
+				"Sublimerge: Custom Comparison..."
+			],
+			[
+				"subl uns",
+				"Sublimerge: Show Unsaved Changes"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"gitignore",
+				"Git (SideBarGit): Open Git Ignore"
+			],
+			[
+				"branch de",
+				"Git (SideBarGit): Branch: delete even if unmerged (force deletion)…"
+			],
+			[
+				"branch ",
+				"Git (SideBarGit): Branch: new from cleaned current and switch to…"
+			],
+			[
+				"switch to ",
+				"Git (SideBarGit): Branch: switch to master"
+			],
+			[
+				"branch new f",
+				"Git (SideBarGit): Branch: new from current and switch to…"
+			],
+			[
+				"switch to",
+				"Git (SideBarGit): Branch: switch to master"
+			],
+			[
+				"unsaved",
+				"Sublimerge: Show Unsaved Changes"
+			],
+			[
+				"compare ",
+				"Sublimerge: Compare to Clipboard"
+			],
+			[
+				"subl ",
+				"Sublimerge: Compare to Clipboard"
+			],
+			[
+				"switch ",
+				"Git (SideBarGit): Branch: switch to…"
+			],
+			[
+				"addcommit",
+				"Git (SideBarGit): Add & Commit & Push…"
+			],
+			[
+				"prety",
+				"Pretty JSON: Validate"
+			],
+			[
+				"Branch new",
+				"Git (SideBarGit): Branch: new from current and switch to…"
+			],
+			[
+				"branchn new",
+				"Git (SideBarGit): Branch: new from current and switch to…"
+			],
+			[
+				"swit",
+				"Git (SideBarGit): Branch: switch to master"
+			],
+			[
+				"git pul",
+				"Git (SideBarGit): Pull"
+			],
+			[
+				"subl cus",
+				"Sublimerge: Custom Comparison..."
+			],
+			[
+				"subl",
+				"Sublimerge: Compare to Clipboard"
+			],
+			[
+				"sub",
+				"Sublimerge: Compare to Clipboard"
+			],
+			[
+				"branch",
+				"Git (SideBarGit): Branch: new from master and switch to…"
+			],
+			[
+				"pretty ",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"add commit ",
+				"Git (SideBarGit): Add & Commit & Push…"
+			],
+			[
+				"branch new ",
+				"Git (SideBarGit): Branch: new from current and switch to…"
+			],
+			[
+				"pretty jso",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretty json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"branch new from ",
+				"Git (SideBarGit): Branch: new from cleaned current and switch to…"
+			],
+			[
+				"git status",
+				"Git (SideBarGit): Status"
+			],
+			[
+				"json pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"add com",
+				"Git (SideBarGit): Add & Commit & Push…"
+			],
+			[
+				"add cp",
+				"Git (SideBarGit): Add & Commit & Push…"
+			],
+			[
+				"add comit",
+				"Git (SideBarGit): Add & Commit & Push…"
+			],
+			[
+				"pretty print json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"subl compare",
+				"Sublimerge: Compare to Clipboard"
+			],
+			[
+				"add commi",
+				"Git (SideBarGit): Add & Commit & Push…"
+			],
+			[
+				"sw",
+				"Git (SideBarGit): Branch: switch to…"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"subl cu",
+				"Sublimerge: Custom Comparison..."
+			],
+			[
+				"de",
+				"Git (SideBarGit): Branch: delete even if unmerged (force deletion)…"
+			],
+			[
+				"delete",
+				"Git (SideBarGit): Branch: delete even if unmerged (force deletion)…"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"git add",
+				"Git (SideBarGit): File: Add"
+			],
+			[
+				"add ",
+				"Git (SideBarGit): File: Add"
+			],
+			[
+				"git satus",
+				"Git (SideBarGit): Status"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"unsave",
+				"Sublimerge: Show Unsaved Changes"
+			],
+			[
+				"add",
+				"Git (SideBarGit): File: Add"
+			],
+			[
+				"uns",
+				"Sublimerge: Show Unsaved Changes"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"subl unsav",
+				"Sublimerge: Show Unsaved Changes"
+			],
+			[
+				"subl unsave",
+				"Sublimerge: Show Unsaved Changes"
+			],
+			[
+				"dele",
+				"Git (SideBarGit): Branch: delete even if unmerged (force deletion)…"
+			],
+			[
+				"branch swit",
+				"Git (SideBarGit): Branch: switch to…"
+			],
+			[
+				"angularjs auto",
+				"AngularJS: Toggle - Disable Built-in Element Completions"
+			],
+			[
+				"git switch",
+				"Git (SideBarGit): Branch: switch to master"
+			],
+			[
+				"git stas",
+				"Git: Stash"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 754.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jlucas/Documents/Workspace/node-js-getting-started"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/templates/order_edit_current_information.tpl.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/yorder_edit_fns.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/classes/yl_order_edit.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/classes/yl_order_edit_payment_elements.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/templates/order_edit_current.tpl.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/YL_ProductSelectorOnChangeOptions.ajax.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/.gitignore",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/classes/yl_order_edit_information_elements.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/js/billingAddressFunctions.js",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/templates/order_edit_billing_address.tpl.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/js/priceAdjustmentsFunctions.js",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/js/giftAndDiscountFunctions.js",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/js/shippingFunctions.js",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/js/globalEventListeners.js",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/js/editItemFunctions.js",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/templates/order_edit_current_shipping.tpl.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/templates/order_edit_current_gift_discount.tpl.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/js/paymentFunctions.js",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/js/orderSummaryFunctions.js",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/classes/yl_order_edit_orderxml_calculations.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/js/paymentLogFunctions.js",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/classes/yl_order_edit_send_orderxml.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/classes/yl_order_connect_cart_services.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/classes/YL_ProductSelector_onChange.class.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/YL_ProductSelector.ajax.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/js/addressFunctions.js",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/js/orderEditGlobals.js",
+		"/Users/jlucas/Documents/YL_ProductSelector_onChange.class.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/classes/yl_productselector_onchange.class.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/api/get_order_edit_payment_history.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/api/get_order_edit_gift_codes.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/js/addNewProductFunctions.js",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/templates/order_edit_current_summary.tpl.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/classes/yl_order_edit_user.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/templates/order_edit_current_payment.tpl.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/api/get_order_edit_summary.php",
+		"/Users/jlucas/Documents/SummaryWorksheet",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/css/screen.css",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/config.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/api/get_order_edit_items.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/api/get_order_edit_order_discounts.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/classes/yl_order_edit_payment_transaction.php",
+		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/api/get_order_edit_discount_history.php",
+		"/Users/jlucas/Library/Application Support/Sublime Text 3/Packages/User/SideBarGit.sublime-settings",
+		"/Users/jlucas/Library/Application Support/Sublime Text 3/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/Users/jlucas/Library/Application Support/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
+		"/Users/jlucas/Library/Application Support/Sublime Text 3/Packages/User/GitHub.sublime-settings",
+		"/Users/jlucas/Library/Application Support/Karabiner/private.xml",
+		"/Users/jlucas/Desktop/DefaultKeyBindings.dict"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit",
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"firstProduct",
+			"\">",
+			"shipping",
+			"please, click recalculate",
+			"discount",
+			"discounts",
+			"price_adjustment_",
+			"price_adjustment",
+			"corrected_options",
+			"default_option_string_xml",
+			"default_option_stirng_xml",
+			"default_option_string_xml",
+			"shippingAddressContainer",
+			"perform",
+			"submit",
+			"submitAction",
+			"event",
+			"arr_countries",
+			"shipping",
+			"hid_over_shipping_cost",
+			"keyup",
+			"this",
+			"console.log",
+			"indexOf",
+			"recalculate",
+			"List of order products is empty!",
+			"arr_countries",
+			"(match",
+			"yl_OrderXML",
+			"GetOrderItemCodeFromXML",
+			"getYCSException",
+			"xml",
+			"xpath",
+			"new_prod_unit_price",
+			"current_add_prod_response",
+			"prices",
+			"prices = array",
+			"price_adjustments_difference",
+			"selectable_country_Codes",
+			"some required values are missing in order xml",
+			"userState",
+			"shipping_method",
+			"$shipping_address",
+			"with details",
+			"internal error",
+			"userState",
+			"$cur_state",
+			"$ship_val",
+			"generate",
+			"userState",
+			"this value is not valid",
+			"yl_productselector_onchange",
+			"userState",
+			"subTotal",
+			"sale_price",
+			"SavePriceAdjustmentsToSession",
+			"priceAdjustments",
+			"price_adjustments",
+			"price_adjustments_list",
+			"die(",
+			"GetPriceAdjustments",
+			"price_adjustments_quantity",
+			"price_adjustment_quantity",
+			"price_adjustments",
+			"buildAdjustment",
+			"saveAdjustmentToSession",
+			"priceAdjustments",
+			"price_adjustments",
+			"SavePriceAdjustmentsToSession",
+			"adjustments",
+			"sale_price",
+			"unit_price",
+			"Store-Price",
+			"subTotal",
+			"yl_order_edit",
+			"priceAdjustments",
+			"with details",
+			"with message",
+			"return",
+			"changeSelectedCountry",
+			"class",
+			"unable to save order:",
+			"die",
+			"die(",
+			"json_encode($_POST)",
+			"dataShippingAddress",
+			");\n",
+			"address",
+			"wrong state and country code",
+			"Wrong state code and country code provided with details",
+			"select a product by ID",
+			"set_cancel_order",
+			"removeProduct",
+			"cancel",
+			"recalculateAll",
+			"reclculateAll",
+			"window.location.reload",
+			"window.reload",
+			"RecaulculateAll",
+			"Additioanl info",
+			"http://test-cartapi",
+			"https://test-cartapi",
+			"cur_discounts",
+			"first-child",
+			"subItemPlaceHolder",
+			"YCART_API_URL",
+			"for",
+			"palcehHolder",
+			"order_total",
+			"discount",
+			"\\",
+			"get_order_edit_summary",
+			"recalculateAll",
+			"recalculate",
+			"saveOrder",
+			";",
+			":",
+			"discounts",
+			"quantity",
+			"shipping",
+			"saveOrder",
+			"recalculateAll",
+			"remove item",
+			"cancel",
+			"status",
+			"$cart_title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/jlucas/Documents/Workspace/node-js-getting-started"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								466,
+								466
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 98.0
+	},
+	"output.git-pull":
+	{
+		"height": 98.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/SublimeTextProjects/YCS-Trunk.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 556.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
