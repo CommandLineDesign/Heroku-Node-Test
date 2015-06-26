@@ -91,7 +91,15 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 466,
+				"buffer_size": 517,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 822,
 				"line_ending": "Unix"
 			}
 		}
@@ -453,6 +461,7 @@
 	],
 	"file_history":
 	[
+		"/Users/jlucas/Documents/Workspace/node-js-getting-started/.env",
 		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/templates/order_edit_current_information.tpl.php",
 		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/yorder_edit_fns.php",
 		"/Applications/XAMPP/xamppfiles/docs/ycs-trunk/order_edit/classes/yl_order_edit.php",
@@ -671,7 +680,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -680,25 +689,58 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 466,
+						"buffer_size": 517,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								466,
-								466
+								250,
+								250
 							]
 						],
 						"settings":
 						{
+							"auto_complete": true,
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/JavaScript/JSON.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								654,
+								654
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
