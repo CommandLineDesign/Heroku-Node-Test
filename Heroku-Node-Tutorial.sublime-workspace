@@ -102,6 +102,14 @@
 				"buffer_size": 822,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "node_modules/cool-ascii-faces/readme.md",
+			"settings":
+			{
+				"buffer_size": 2581,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -457,7 +465,9 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/jlucas/Documents/Workspace/node-js-getting-started"
+		"/Users/jlucas/Documents/Workspace/node-js-getting-started",
+		"/Users/jlucas/Documents/Workspace/node-js-getting-started/node_modules",
+		"/Users/jlucas/Documents/Workspace/node-js-getting-started/node_modules/cool-ascii-faces"
 	],
 	"file_history":
 	[
@@ -747,6 +757,39 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "node_modules/cool-ascii-faces/readme.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								648,
+								548
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
